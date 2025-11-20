@@ -5,6 +5,6 @@
 <div align="center">
 
 ### Template from the repository below. Go star it!
-![Stars](https://img.shields.io/github/stars/e-yang6/personal-resume)
+(https://img.shields.io/github/stars/e-yang6/personal-resume)
 
 </div>
