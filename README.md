@@ -4,10 +4,7 @@
 
 <div align="center">
 
-### Please ⭐ this repository if you use it!
+### Template from the repository below. Go star it!
 ![Stars](https://img.shields.io/github/stars/e-yang6/personal-resume)
 
 </div>
-
-👉 **[Download Full Resume (PDF)](Ethan_Yang_Resume.pdf)** \
-👉 **[Template Used](https://github.com/sb2nov/resume)**
