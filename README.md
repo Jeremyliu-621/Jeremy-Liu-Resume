@@ -1,6 +1,6 @@
 # Jeremy Liu's Resume
 
-[![Resume Preview](https://github.com/Jeremyliu-621/Jeremy-Liu-Resume/blob/main/Jeremy_Liu_Resume_img.jpg)](https://github.com/Jeremyliu-621/Jeremy-Liu-Resume/blob/main/Jeremy_Liu_Resume.pdf)
+[![Resume Preview](https://github.com/Jeremyliu-621/Jeremy-Liu-Resume/blob/main/jeremy_liu_resume_img.jpg)](https://github.com/Jeremyliu-621/Jeremy-Liu-Resume/blob/main/Jeremy_Liu_final_resume.pdf)
 
 <div align="center">
 
